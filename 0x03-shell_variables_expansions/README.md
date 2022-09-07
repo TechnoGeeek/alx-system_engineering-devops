@@ -7,3 +7,4 @@ Creating a script that creates a new local variable.
 Creating a script that creates a new global variableWrite a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 Writing a script that prints the result of POWER divided by DIVIDE
 Writing a script that displays the result of BREATH to the power LOVE
+Writing a script that converts a number from base 2 to base 10
