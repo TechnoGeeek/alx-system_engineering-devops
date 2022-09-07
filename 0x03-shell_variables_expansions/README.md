@@ -10,3 +10,4 @@ Writing a script that displays the result of BREATH to the power LOVE
 Writing a script that converts a number from base 2 to base 10
 Creating a script that prints all possible combinations of two letters, except oo.
 Writing a script that prints a number with two decimal places
+Writing a script that converts a number from base 10 to base 16.
