@@ -12,3 +12,4 @@ Creating a script that prints all possible combinations of two letters, except o
 Writing a script that prints a number with two decimal places
 Writing a script that converts a number from base 10 to base 16.
 Writing a script that encodes and decodes text using the rot13 encryption. Assume ASCI
+Writing a script that prints every other line from the input, starting with the first line.
