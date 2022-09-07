@@ -8,3 +8,4 @@ Creating a script that creates a new global variableWrite a script that prints t
 Writing a script that prints the result of POWER divided by DIVIDE
 Writing a script that displays the result of BREATH to the power LOVE
 Writing a script that converts a number from base 2 to base 10
+Creating a script that prints all possible combinations of two letters, except oo.
