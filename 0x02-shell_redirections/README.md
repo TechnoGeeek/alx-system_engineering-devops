@@ -2,3 +2,4 @@ Writing a script that prints “Hello, World”, followed by a new line to the s
 Write a script that displays a confused smiley "(Ôo)'.
 Displaying the content of /etc/passwd and /etc/hosts
 Displaying the last 10 lines of /etc/passwd
+Displaying the first 10 lines of /etc/passwd
