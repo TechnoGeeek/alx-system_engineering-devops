@@ -6,3 +6,4 @@ Displaying the first 10 lines of /etc/passwd
 Writing a script that displays the third line of the file iacta.
 Writing a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 Writing a script that writes into the file ls_cwd_content the result of the command ls -la
+Writing a script that duplicates the last line of the file iacta
